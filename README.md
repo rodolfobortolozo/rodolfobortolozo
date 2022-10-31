@@ -5,13 +5,14 @@
 </br>
 </br>
 
-## Hello, Devs!!
+## Olá!!
 
 Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologia! 
 
-- 😍 Apaixonado por tecnologia
+- 😍 Apaixonado por tecnologia!
 - 🎓 Sempre em evolução!
-
+- 🤖 Gosto de desafios e aprender coisas novas!
+- 
 <div align="center">
   <a href="https://github.com/rodolfobortolozo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodolfobortolozo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
