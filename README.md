@@ -34,7 +34,7 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
   </br>
 <div display="inline-block">
  <p align="left">🤿 Atualmente trabalho no Grupo Estrela Alimentos <a href="https://www.frigoestrela.com.br/">Frigoestrela</a>;</p>
- <p align="left">📚 Tenho estudado Java e Angular ;</p>
+ <p align="left">📚 Estou cursando o Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
  <p align="left">☕🎮 Só acordo com café, adoro games (mas sou muito ruim em todos), filmes e faço piadas ruins de vez em quanto.</p>
 </div>
 
@@ -42,8 +42,8 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_bortolozo) 
-No Git está algumas das coisas que gosto de fazer desenvolver. =)
+<p align="left">📫 Você pode falar comigo pelo </p>
+<p align="left">No Git está algumas das coisas que gosto de fazer desenvolver. =) </p>
 
 </br>
 <div>
