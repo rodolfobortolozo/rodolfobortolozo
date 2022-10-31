@@ -18,7 +18,7 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobortolozo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
- <div style="display: inline_block margin-left: auto margin-right: auto "><br>
+ <div style="display: inline_bloc " align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" width="36" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" width="36" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="36" />
