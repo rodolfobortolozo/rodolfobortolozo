@@ -6,7 +6,7 @@
 
 ## Olá!!
 
-Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologia! 
+Tenho 33 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informação e Engenharia Civil, sempre trabalhei na área de tecnologia! 
 
 - 😍 Apaixonado por tecnologia!
 - 🎓 Sempre em evolução!
