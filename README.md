@@ -21,7 +21,7 @@
 
 <div> 
   <a href = "mailto:rodolfobortolozo@gmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodolfobortolozo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="96" width="96" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rodolfobortolozo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="48" width="48" target="_blank"></a> 
   
 
   
