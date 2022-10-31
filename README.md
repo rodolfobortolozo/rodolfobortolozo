@@ -42,7 +42,7 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
 
 </br>
 
-<p align="left">📫 Você pode falar comigo pelo </p>
+<p align="left">📫 Você pode falar comigo pelo Instragram </p>
 <p align="left">No Git está algumas das coisas que gosto de fazer desenvolver. =) </p>
 
 </br>
