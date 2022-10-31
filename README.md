@@ -35,7 +35,7 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
 <div display="inline-block">
  <p align="left">🤿 Atualmente trabalho no Grupo Estrela Alimentos <a href="https://www.frigoestrela.com.br/">Frigoestrela</a>;</p>
  <p align="left">📚 Tenho estudado Java e Angular ;</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e filmes e faço piadas ruins.</p>
+ <p align="left">☕🎮 Só acordo com café, adoro games (mas sou muito ruim em todos), filmes e faço piadas ruins de vez em quanto.</p>
 </div>
 
 
@@ -46,15 +46,8 @@ Tenho 33 anos, moro em Fernandópolis/SP, sempre trabalhei na área de tecnologi
 No Git está algumas das coisas que gosto de fazer desenvolver. =)
 
 </br>
-
-<a href="https://www.instagram.com/_bortolozo" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/rodolfobortolozo" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
+<div>
+  <a href="https://www.instagram.com/_bortolozo" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a href="https://www.linkedin.com/in/rodolfobortolozo" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  </div>
   
-  <a href = "mailto:rodolfobortolozo@gmail.com">rodolfobortolozo@gmail.com</a>
-<div> 
-  <a href="https://www.linkedin.com/in/rodolfobortolozo/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="96" width="96" target="_blank"></a> 
-  
-
-  
-</div>
