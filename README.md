@@ -48,6 +48,6 @@ Tenho 33 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informaçã
 </br>
 <div>
   <a href="https://www.instagram.com/_bortolozo" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-  <a href="https://www.linkedin.com/in/rodolfobortolozo" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/rodolfo-bortolozo-0825b422" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
   </div>
   
