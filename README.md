@@ -34,7 +34,7 @@ Tenho 33 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informaçã
   
   </br>
 <div display="inline-block">
- <p align="left">🤿 Atualmente trabalho no Grupo Estrela Alimentos <a href="https://www.frigoestrela.com.br/">Frigoestrela</a>;</p>
+ <p align="left">🤿 Atualmente trabalho no Grupo Estrela Alimentos <a href="https://www.frigoestrela.com.br/">Frigoestrela</a> na parte de Analise de Dados;</p>
  <p align="left">📚 Estou cursando o Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
  <p align="left">☕🎮 Só acordo com café, adoro games (mas sou muito ruim em todos), filmes e faço piadas ruins de vez em quanto.</p>
 </div>
