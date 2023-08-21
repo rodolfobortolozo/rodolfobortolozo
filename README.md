@@ -6,12 +6,12 @@
 
 ## Olá!!
 
-Tenho 33 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informação e Engenharia Civil, sempre trabalhei na área de tecnologia! 
+Tenho 34 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informação e Engenharia Civil, sempre trabalhei na área de tecnologia! 
 
 - 😍 Apaixonado por tecnologia!
 - 🎓 Sempre em evolução!
 - 🤖 Gosto de desafios e aprender coisas novas!
-- 
+  
 <div align="center">
   <a href="https://github.com/rodolfobortolozo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodolfobortolozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,8 +34,8 @@ Tenho 33 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informaçã
   
   </br>
 <div display="inline-block">
- <p align="left">🤿 Atualmente trabalho no Grupo Estrela Alimentos <a href="https://www.frigoestrela.com.br/">Frigoestrela</a> na parte de Analise de Dados;</p>
- <p align="left">📚 Estou cursando o Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
+ <p align="left">🤿 Atualmente trabalho na Stefanini <a href="https://stefanini.com/pt-br">Stefanini</a> como Java Develop;</p>
+ <p align="left">📚 Fiz Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
  <p align="left">☕🎮 Só acordo com café, adoro games (mas sou muito ruim em todos), filmes e faço piadas ruins de vez em quanto.</p>
 </div>
 
