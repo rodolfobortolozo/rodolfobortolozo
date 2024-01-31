@@ -6,7 +6,7 @@
 
 ## Olá!!
 
-Tenho 34 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informação e Engenharia Civil, sempre trabalhei na área de tecnologia! 
+Tenho 34 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informação e Engenharia Civil, porém sempre trabalhei na área de tecnologia! 
 
 - 😍 Apaixonado por tecnologia!
 - 🎓 Sempre em evolução!
@@ -18,7 +18,7 @@ Tenho 34 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informaçã
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobortolozo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- <div style="display: inline_bloc " align="center"><br>
+ <div style="display: inline-block " align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" width="36" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" width="36" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="36" />
@@ -34,8 +34,8 @@ Tenho 34 anos, moro em Fernandópolis/SP, sou formado em Sistemas de informaçã
   
   </br>
 <div display="inline-block">
- <p align="left">🤿 Atualmente trabalho na Stefanini <a href="https://stefanini.com/pt-br">Stefanini</a> como Java Develop;</p>
- <p align="left">📚 Fiz Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
+ <p align="left">🤿 Atualmente trabalho na Stefanini <a href="https://stefanini.com/pt-br">Stefanini</a> como Full Stack Java e Angular;</p>
+ <p align="left">📚 Full Developer da <a href="https://devinhouse.tech/">DevInHouse</a> turma Philips;</p>
  <p align="left">☕🎮 Só acordo com café, adoro games (mas sou muito ruim em todos), filmes e faço piadas ruins de vez em quanto.</p>
 </div>
 
